@@ -18,13 +18,20 @@ youtube part 2 : https://youtu.be/yaH9ug9ah9k?feature=shared
 
 Dont forget to set up your telegram (IDbot & BOTfather) to get your chat id and BotToken.
 
-PIN TO PIN
+
+                                    PIN TO PIN
+
+
+
 ![Screenshot (504)](https://github.com/user-attachments/assets/758a67bf-2e11-487c-8a9d-871b955a0f06)
 ![Screenshot (506)](https://github.com/user-attachments/assets/d09d2a9e-71ec-4f46-885f-65f9dc6249a9)
 ![Screenshot (507)](https://github.com/user-attachments/assets/2701a86a-81b8-4fca-bfa1-f146d63ad879)
 
 
-WIRE DIAGRAM
+
+
+                                    WIRE DIAGRAM
+
 ![Screenshot (509)](https://github.com/user-attachments/assets/c12acc9f-516d-47ea-b6b9-765562caeeb5)
 
 
@@ -34,7 +41,8 @@ WIRE DIAGRAM
 
 
 
-Usefull Library 
+                                 Usefull Library 
+
 https://drive.google.com/drive/folders/1h6rPhsTB_fhEmTGSV8uDPMMHlbplHc1k?usp=sharing
 
 
