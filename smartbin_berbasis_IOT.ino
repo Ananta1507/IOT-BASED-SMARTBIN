@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6W5j1GNfC" // Pin servo motor
-#define BLYNK_TEMPLATE_NAME "Servo App" // Pin servo motor
-#define BLYNK_AUTH_TOKEN "X4ZHONIrM5Ug2mDVvjn7lalD_63xV5qs" // Pin servo motor
+#define BLYNK_TEMPLATE_ID "----------" //           [your blynk template id]
+#define BLYNK_TEMPLATE_NAME "---------" //          [your blynk template name]
+#define BLYNK_AUTH_TOKEN "-------------------" //   [your blynk auth token]
 #include <NewPing.h>
 #include <BlynkSimpleEsp32.h>
 #include <WiFi.h>
@@ -21,8 +21,8 @@ NewPing sonar2(TRIGGER_PIN_2, ECHO_PIN_2);
 Servo myservo;  // Objek untuk mengontrol servo
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "S20+"; // Pin servo motor
-char pass[] = "dlsp1241"; // Pin servo motor
+char ssid[] = "-----"; //    [your ssid name]
+char pass[] = "------"; //   [your wifi password]
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
@@ -34,10 +34,10 @@ int servoPosition = 0;
 #include <ArduinoJson.h>
 
 // inisialisasi Bot Token
-#define BOTtoken "6724248113:AAEdGTZjOU9CLnEegv--7vsCmhiiWe0QH-I"  // Bot Token dari BotFather
+#define BOTtoken "-----------I"  // [Bot Token from Botfather]
 
 // chat id dari @myidbot
-#define CHAT_ID "1422625915"
+#define CHAT_ID "-----" [chat id from myidbot]
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
