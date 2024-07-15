@@ -13,6 +13,7 @@ My Smartbin Project Spesification
 
    
 youtube part 1 : https://youtu.be/FyBkrTRDXLU?feature=shared
+
 youtube part 2 : https://youtu.be/yaH9ug9ah9k?feature=shared
 
 Dont forget to set up your telegram (IDbot & BOTfather) to get your chat id and BotToken.
@@ -25,6 +26,13 @@ PIN TO PIN
 
 WIRE DIAGRAM
 ![Screenshot (509)](https://github.com/user-attachments/assets/c12acc9f-516d-47ea-b6b9-765562caeeb5)
+
+
+
+
+
+
+
 
 Usefull Library 
 https://drive.google.com/drive/folders/1h6rPhsTB_fhEmTGSV8uDPMMHlbplHc1k?usp=sharing
