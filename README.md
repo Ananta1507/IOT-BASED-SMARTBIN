@@ -1,3 +1,5 @@
+# IOT-BASED-SMARTBIN
+
 ![WhatsApp Image 2024-07-15 at 15 03 19](https://github.com/user-attachments/assets/279775bf-776d-4d5e-856f-cf6e0fd80ab3)
 ![WhatsApp Image 2024-07-15 at 15 03 19 (1)](https://github.com/user-attachments/assets/e53a25e4-3361-4f0b-bce4-0919e665698e)
 
